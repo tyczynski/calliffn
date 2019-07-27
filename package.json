@@ -1,0 +1,40 @@
+{
+  "name": "calliffn",
+  "version": "1.0.0",
+  "description": "The method that call the passed argument if it is a function",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir lib --no-comments --presets minify",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Przemysław Tyczyński",
+    "url": "https://tyczynski.pl",
+    "email": "przemyslaw@tyczynski.pl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyczynski/calliffn.js.git"
+  },
+  "licenses": [
+    {
+      "type": "Unlicense",
+      "url": "https://github.com/tyczynski/calliffn.js/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/tyczynski/calliffn.js/issues"
+  },
+  "homepage": "https://github.com/tyczynski/calliffn.js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4",
+    "babel-preset-minify": "^0.5.0",
+    "jest": "^24.8.0"
+  }
+}
