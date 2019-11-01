@@ -3,7 +3,7 @@
  *
  * @param {*} fn - argument to be called
  * @param {...*} args - zero or more arguments
- * @return {*}
+ * @returns {*}
  */
 module.exports = (fn, ...args) => {
   if (typeof fn === 'function') {
