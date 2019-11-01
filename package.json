@@ -19,18 +19,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyczynski/calliffn.js.git"
+    "url": "git+https://github.com/tyczynski/calliffn.git"
   },
   "licenses": [
     {
       "type": "Unlicense",
-      "url": "https://github.com/tyczynski/calliffn.js/blob/master/LICENSE"
+      "url": "https://github.com/tyczynski/calliffn/blob/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/tyczynski/calliffn.js/issues"
+    "url": "https://github.com/tyczynski/calliffn/issues"
   },
-  "homepage": "https://github.com/tyczynski/calliffn.js#readme",
+  "homepage": "https://github.com/tyczynski/calliffn#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.4",
