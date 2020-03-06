@@ -24,7 +24,7 @@
   },
   "licenses": [
     {
-      "type": "Unlicense",
+      "type": "MIT",
       "url": "https://github.com/tyczynski/calliffn/blob/master/LICENSE"
     }
   ],
