@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "The method that call the passed argument if it is a function",
   "main": "lib/index.js",
+  "types": "lib/index.d.js",
   "files": [
     "lib",
     "src"
