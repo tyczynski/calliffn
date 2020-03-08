@@ -12,7 +12,12 @@
     "build": "babel src --out-dir lib --no-comments --presets minify",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "callback",
+    "callback-function",
+    "helper",
+    "utility"
+  ],
   "author": {
     "name": "Przemysław Tyczyński",
     "url": "https://tyczynski.pl",
@@ -22,12 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/tyczynski/calliffn.git"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/tyczynski/calliffn/blob/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tyczynski/calliffn/issues"
   },
