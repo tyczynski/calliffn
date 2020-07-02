@@ -1,6 +1,6 @@
 {
   "name": "calliffn",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "The method that call the passed argument if it is a function",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
