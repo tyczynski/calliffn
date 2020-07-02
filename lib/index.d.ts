@@ -1,2 +1,2 @@
-declare function calliffn(fn: any, ...args: any): any;
+declare function calliffn<T, R>(fn: (...T: any[]) => R, ...args: T[]): R | void;
 export = calliffn;
